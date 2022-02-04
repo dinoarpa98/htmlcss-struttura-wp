@@ -8,20 +8,30 @@
 
 body{
     margin-top: 10px;
-    margin-left: 90px;
+    margin-left: 50px;
+    width: 90%;
 }
 
 header{
     border: 1px solid #E579E6;
     background-color: #E579E6;
-    width: 90%;
     height: 50px;
 }
 
 .yellowboard{
     border: 1px solid #E1D67A ;
     background-color: #E1D67A ;
-    width: 90%;
-    margin-top: 10px;
-    padding: 100px;
+    margin:30px 0px;
+    height: 250px;
 }
+
+.blueboard{
+     border: 1px solid #0086FE;
+     background-color: #0086FE;
+     height: 500px;
+
+}
+
+
+
+
