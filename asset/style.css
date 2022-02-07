@@ -36,7 +36,7 @@ footer .vbar{
      /* border: 1px solid #0086FE; */
      background-color: #0086FE;
      margin-top: 20px;
-     height: 50vh;
+     height: 40vh;
      width: 100%;
      display: inline-block;
 }
@@ -53,7 +53,7 @@ footer .vbar{
      background-color: #ABCFE7;
      width: calc(20% - 20px);
      margin-top: 20px;
-     height: 80%;
+     height: 60%;
      float: left;
 
 }
@@ -63,7 +63,7 @@ footer .vbar{
      background-color: #ABCFE7;
      width: calc(20% - 20px);
      margin-top: 20px;
-     height: 80%;
+     height: 60%;
      float: right;
 }
 
@@ -78,7 +78,7 @@ footer .vbar{
      /* border: 1px solid #ABCFE7; */
      background-color: #ABCFE7;
      text-align: center;
-     height: 80%;
+     height: 60%;
      width: 60%;
      margin: 20px;
      margin-bottom: 20px;
